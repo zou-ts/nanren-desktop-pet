@@ -1,7 +1,7 @@
 {
-  "version": 12,
+  "version": 13,
   "urls": [
-    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.2/nanren-desktop-pet-v1.2.zip"
+    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.3/nanren-desktop-pet-v1.3.zip"
   ],
-  "notes": "v1.2 首发：9 个动作 + 拖拽奔跑 + 碎碎念气泡 + 内置自动更新（多地址回退）"
+  "notes": "v1.3：新增「唱歌」「射门」两个动作（共 11 个）；启动器动作按钮改为自适应窗口高度，不再截断"
 }
