@@ -3,5 +3,5 @@
   "urls": [
     "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.3/nanren-desktop-pet-v1.3.zip"
   ],
-  "notes": "v1.3：新增「唱歌」「射门」两个动作（共 11 个）；启动器动作按钮改为自适应窗口高度，不再截断"
+  "notes": "v1.3：新增「唱歌」「射门」「吃饭」三个动作（共 12 个）；启动器动作按钮改为自适应窗口高度，不再截断"
 }
