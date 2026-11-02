@@ -1,7 +1,7 @@
 {
-  "version": 13,
+  "version": 15,
   "urls": [
-    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.3/nanren-desktop-pet-v1.3.zip"
+    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.4/nanren-desktop-pet-v1.4.zip"
   ],
-  "notes": "v1.3：新增「唱歌」「射门」「吃饭」三个动作（共 12 个）；启动器动作按钮改为自适应窗口高度，不再截断"
+  "notes": "v1.4：新增功能扩展层 —— 设置窗口（六页）、分组右键菜单、系统托盘、全局快捷键、开机自启、待办提醒、天气、节日与节气、每日抽签、音乐识别与歌词、系统状态、AI 对话与识屏、语音朗读、多开小肥鱼、拖文件喂食、边缘探头。修复：右键「免打扰」勾选不生效、拖文件报错、退出后位置丢失。"
 }
