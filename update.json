@@ -1,0 +1,18 @@
+{
+  "version": "1.5",
+  "html_url": "https://github.com/zou-ts/nanren-desktop-pet/releases/tag/v1.5",
+  "notes": "v1.5：换内核——整程序迁到 Qt（PySide6），渲染与拖拽帧率全面升级；包结构改为 exe + _internal。",
+  "assets": {
+    "nanren-desktop-pet-v1.5.zip": {
+      "fileName": "nanren-desktop-pet-v1.5.zip",
+      "urls": [
+        "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.5/nanren-desktop-pet-v1.5.zip"
+      ],
+      "size": 370431959,
+      "sha256": "d1068a38a74afce8a8316a2c7593575a741ceb828430d7dab4008c5d7443713e",
+      "platform": "windows",
+      "kind": "portable",
+      "variant": "webm-chat"
+    }
+  }
+}
