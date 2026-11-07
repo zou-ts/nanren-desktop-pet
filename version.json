@@ -1,7 +1,8 @@
 {
-  "version": 15,
+  "version": 16,
   "urls": [
-    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.4/nanren-desktop-pet-v1.4.zip"
+    "https://github.com/zou-ts/nanren-desktop-pet/releases/download/v1.5/nanren-desktop-pet-v1.5.zip"
   ],
-  "notes": "v1.4：新增功能扩展层 —— 设置窗口（六页）、分组右键菜单、系统托盘、全局快捷键、开机自启、待办提醒、天气、节日与节气、每日抽签、音乐识别与歌词、系统状态、AI 对话与识屏、语音朗读、多开小肥鱼、拖文件喂食、边缘探头。修复：右键「免打扰」勾选不生效、拖文件报错、退出后位置丢失。"
+  "sha256": "d1068a38a74afce8a8316a2c7593575a741ceb828430d7dab4008c5d7443713e",
+  "notes": "v1.5：换内核——整程序迁到 Qt（PySide6），渲染与拖拽帧率全面升级；包结构改为 exe + _internal，配置目录迁到 %APPDATA%\\dsh-pet-standalone。本次为整包更新，下载后解压到新文件夹使用最干净。"
 }
